@@ -11,17 +11,6 @@
 - 🧱 Always building, experimenting, and learning — from shader effects to C++ engine internals  
 
 ---
-
-### 🧠 Currently Learning
-
-- **Java** — course projects (OOP)
-- **C++ / STL** — my main language for most projects  
-- **OpenGL & GLSL** — real-time graphics and rendering  
-- **Octave / MATLAB** — numerical methods, splines, Fourier transforms  
-- **Rust & Python** — for tools, automation, and experiments  
-
----
-
 ### 🧩 Featured Projects
 
 - 🧠 **3D Game Engine (C++ / OpenGL)** — custom rendering pipeline with transformations, lighting, and shaders
