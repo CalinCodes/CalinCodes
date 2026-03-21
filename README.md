@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hey, I'm Călin</h1>
-<h3 align="center">🎮 Game Developer | 💻 C++ Enthusiast | 🎓 Student at UPB</h3>
+<h3 align="center">💻 Software Developer | 🎓 Student at UPB | 🎮 Game Developer</h3>
 
 ---
 
@@ -8,15 +8,17 @@
 
 - 🎓 Second-year student at **Politehnica University of Bucharest**, specializing in **Automatic Control and Computers**  
 - 💡 Passionate about **low-level systems**, **web development**, and **game development** 
-- 🧱 Always building, experimenting, and learning — from shader effects to C++ engine internals  
+- 🧱 Always building, experimenting, and learning — from C++ engine internals to LLM app integration
 
 ---
 ### 🧩 Featured Projects
 
-- 🧠 **3D Game Engine (C++ / OpenGL)** — custom rendering pipeline with transformations, lighting, and shaders
-- 💣 **Minesweeper Clone (C++)** — classic puzzle recreation focusing on event handling and logic flow
+- 🔍 **Veridion Search (Python)** - business discovery platform using LLMs to filter large company datasets
+- 💬 **MiniWhatsapp (Python)** - messaging application featuring secure authentication, group chats, and Gemini AI integration
 - 🍽️ **Meal Macro Tracker (Rust)** — Desktop app for tracking nutritional macros and meal data storage
+- 🧠 **3D Game Engine (C++ / OpenGL)** — custom rendering pipeline with transformations, lighting, and shaders
 - 🌐 **Cisco Packet Tracer Network** — simulated multi-device network configuration and routing setup
+- 💣 **Minesweeper Clone (C++)** — classic puzzle recreation focusing on event handling and logic flow
 
 > 🎯 *Goal:* Build a comercial pixel-art indie game and publish it on Steam
 
@@ -27,7 +29,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-273142?style=for-the-badge&logo=verilog&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -44,17 +51,3 @@
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CalinCodes&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalinCodes&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalinCodes&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
